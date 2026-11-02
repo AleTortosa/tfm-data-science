@@ -1,0 +1,5 @@
+pandas>=2.2
+numpy>=1.26
+pyarrow>=14
+datasets>=2.19   # descarga desde Hugging Face (solo para la parte Bronze)
+jupyterlab>=4    # para abrir el notebook en local (no hace falta en Google Colab)
