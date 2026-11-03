@@ -1,0 +1,13 @@
+# Datos grandes: se regeneran con notebooks/01_pipeline_datos.ipynb
+data/raw/
+data/silver/
+data/gold/
+
+# La muestra pequena SI se versiona
+!data/sample/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
